@@ -9,6 +9,11 @@ figcaption{
     
 }
 
+#title {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
 span{
     padding: 30px 0;
 
@@ -52,3 +57,14 @@ main {
   margin-right: auto;
   width: 50%;
 }
+.header {
+    justify-content: center;
+    align-items: center;
+}
+
+#img-div {
+    width: 95%;
+    margin: 5px auto;
+    background-color: white;
+}
+
