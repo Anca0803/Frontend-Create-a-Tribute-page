@@ -1,5 +1,7 @@
 span{
     font-weight: bold;
+     padding: 30px 0;
+     
 }
 
 figcaption{
@@ -12,35 +14,35 @@ figcaption{
 #title {
     margin-top: 50px;
     font-size: 40px;
+    text-align: center;
 }
 
-span{
-    padding: 30px 0;
 
-}
 ul li{
     padding:5px 0
 }
 
 img{
     display: block;
-    MAX-WIDTH: 100%
+    MAX-WIDTH: 80%
     alignement: center
 }
 h3{
     font-size: 15px;
-    color: 
+    color: black;
 }
 * {
     font-family: Arial, sans-serif;
 }
 
 main {
-    background-color:  rgb(248, 248, 255);
-    margin: 30px 5px;
+    background-color:  rgb(210, 210, 170);
+    margin: 30px 20px;
+   
 }
  h1,p{
-     font-size:20px
+     font-size:20px;
+     
  }
 
 .center {
@@ -48,6 +50,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 10px 10px;
 }
 
 .right{
@@ -56,15 +59,20 @@ main {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  text-align: center;
+  color:#4169E1;
+  font-weight: 600;
+  margin-bottom: 30px;
 }
 .header {
     justify-content: center;
     align-items: center;
+    padding: 1px 0;
 }
 
 #img-div {
-    width: 95%;
+    width: 50%;
     margin: 5px auto;
     background-color: white;
-}
+   
 
