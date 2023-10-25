@@ -25,7 +25,7 @@ ul li{
 img{
     display: block;
     MAX-WIDTH: 100%;
-    alignement: center
+    alignement: center;
 }
 h3{
     font-size: 15px;
@@ -36,7 +36,7 @@ h3{
 }
 
 main {
-    background-color:  rgb(210, 210, 170);
+    background-color:  rgba(247, 188, 134, 0.4);
     margin: 30px 20px;
    
 }
@@ -54,13 +54,12 @@ main {
 }
 
 .right{
- 
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   text-align: center;
-  color:#4169E1;
+  color:black;
   font-weight: 600;
   margin-bottom: 30px;
 }
